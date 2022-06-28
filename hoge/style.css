@@ -1,0 +1,14 @@
+/* 全て */
+* {
+  font-size: 60px;
+}
+/* タグ */
+
+
+/* id */
+#foo {
+  color: red;
+}
+#bar {
+  color: burlywood;
+}
